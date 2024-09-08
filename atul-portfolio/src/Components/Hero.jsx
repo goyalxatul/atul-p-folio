@@ -58,7 +58,7 @@ const Hero = () => {
           className="bg-white text-black px-2 py-1 rounded-md border border-gray-300 hover:bg-gray-100 transition font-bold border-b-2 border-purple-600"
           download
         >
-          Download Resume
+        Resume
         </a>
       </div>
     </section>
