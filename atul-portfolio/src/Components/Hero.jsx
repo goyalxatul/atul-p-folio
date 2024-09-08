@@ -50,7 +50,7 @@ const Hero = () => {
           className="text-lg text-white max-w-xl mb-4"
           ref={aboutRef}
         >
-         Hey there, I'm Atul! Currently a third-year student with a strong foundation in the MERN stack ( Express.js, React, and Node.js), I have a deep passion for both technology and creativity. Recently, I’ve been expanding my expertise by diving into DevOps, aiming to streamline development processes and enhance deployment efficiency. Whether it's crafting dynamic user interfaces, building scalable server-side solutions, or integrating robust DevOps practices, I’m dedicated to bringing innovative ideas to life and thriving in the ever-evolving tech landscape.
+         Hey there, I'm Atul Goyal! Currently a third-year student with a strong foundation in the MERN stack ( Express.js, React, and Node.js), I have a deep passion for both technology and creativity. Recently, I’ve been expanding my expertise by diving into DevOps, aiming to streamline development processes and enhance deployment efficiency. Whether it's crafting dynamic user interfaces, building scalable server-side solutions, or integrating robust DevOps practices, I’m dedicated to bringing innovative ideas to life and thriving in the ever-evolving tech landscape.
           <br /><br />
         </p>
         <a 
